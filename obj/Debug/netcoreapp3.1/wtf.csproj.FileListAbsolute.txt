@@ -1,0 +1,11 @@
+C:\Code\Pro.2.2 - WTF\bin\Debug\netcoreapp3.1\wtf.exe
+C:\Code\Pro.2.2 - WTF\bin\Debug\netcoreapp3.1\wtf.deps.json
+C:\Code\Pro.2.2 - WTF\bin\Debug\netcoreapp3.1\wtf.runtimeconfig.json
+C:\Code\Pro.2.2 - WTF\bin\Debug\netcoreapp3.1\wtf.runtimeconfig.dev.json
+C:\Code\Pro.2.2 - WTF\bin\Debug\netcoreapp3.1\wtf.dll
+C:\Code\Pro.2.2 - WTF\bin\Debug\netcoreapp3.1\wtf.pdb
+C:\Code\Pro.2.2 - WTF\obj\Debug\netcoreapp3.1\wtf.csprojAssemblyReference.cache
+C:\Code\Pro.2.2 - WTF\obj\Debug\netcoreapp3.1\wtf.AssemblyInfoInputs.cache
+C:\Code\Pro.2.2 - WTF\obj\Debug\netcoreapp3.1\wtf.AssemblyInfo.cs
+C:\Code\Pro.2.2 - WTF\obj\Debug\netcoreapp3.1\wtf.dll
+C:\Code\Pro.2.2 - WTF\obj\Debug\netcoreapp3.1\wtf.pdb
